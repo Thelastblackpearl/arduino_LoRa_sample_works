@@ -1,2 +1,2 @@
-# Arduino_LoRa_sample_works
-This repository contains samples of some arduino, LoRa works. 
+# Arduino_LoRa_samples
+This repository contains some basic arduino, LoRa related works 
